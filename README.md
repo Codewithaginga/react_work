@@ -1,2 +1,1 @@
-# chamber
-lets get started
+Getting started with react
