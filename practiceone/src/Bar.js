@@ -3,7 +3,8 @@ const Bar = () => {
         <div className="bar">
         <h2>The Creative Work</h2>
             <a href="/">Home</a>
-            <a href="/create">New Blog</a>
+            <a href="/create"
+            >New Blog</a>
         </div>
     );
 }
