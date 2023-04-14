@@ -3,6 +3,8 @@ import './App.css';
 import Bar from './Bar';
 import Home from './Home';
 import Point from './Points';
+import Blog from './Blog';
+import Nation from './Nation';
 
 
 
@@ -18,6 +20,12 @@ function App() {
         </div>
         <div className="point">
           <Point />
+        </div>
+        <div className="blog">
+          <Blog />
+        </div>
+        <div className='Nation'>
+          <Nation />
         </div>
     </div>
 
